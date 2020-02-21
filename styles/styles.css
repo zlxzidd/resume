@@ -19,19 +19,17 @@ footer{
     text-align: center;
 }
 
-.container {
-    display: block;
 
-  
    
 }
 .skillTable { 
     margin-left: auto;
     margin-right: auto;
-    border-collapse:separate; 
-    border-spacing: 10px;
-    width: 100%;
-    table-layout: fixed;
+    border-collapse:collapse; 
+    border-spacing: 20px;
+    font-size: 30px;
+    table-layout: auto;
+    
 }
 
 .headTable { 
@@ -43,8 +41,9 @@ footer{
     border-radius: 50%;
   }
   .jumbotron { 
-background-color:#e3f6f5;
+background-color:#edf7fa;
 padding-bottom: 5px;
+text-align: center;
   }
   .jumbotron-fluid{ 
       margin-top: 35px;
@@ -54,7 +53,7 @@ padding-bottom: 5px;
       padding-left: 1%;
   }
   body{ 
-      background-color: #f4f4f4}
+      background-color: #edf7fa}
 
       .fa {
         padding: 10px;
@@ -88,5 +87,81 @@ padding-bottom: 5px;
             margin-top: 10%;
             margin-left: auto;
     margin-right: auto;
+    
         }
-      
+     
+
+
+         .container {
+    display: inline-block;
+    position: relative;
+    margin: auto; 
+         }
+
+         th { 
+            display: inline-table;
+            padding-bottom: 10%;
+        }
+
+        td { 
+            
+            
+           
+            margin-left: auto;
+            margin-right: auto;
+            position:relative;
+            width: auto;
+            overflow: hidden;
+          
+            
+
+        } 
+
+    .headTable { 
+       padding-left: "40%"
+    }
+
+    .skillStake { 
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    td { 
+        background-color: #edf7fa;
+        
+        
+        
+    }
+
+    tr { 
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    body { 
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    .nameHead { 
+        padding-top: 5%;
+    }
+
+    .titleHead { 
+        text-align: center;
+    }
+
+    .skillBox { 
+        text-align: center;
+        padding-left: 22%;
+        width: auto;
+        font-size: 21px;
+     
+    }
+
+    .techTable { 
+        padding-left: 10%;
+    }
