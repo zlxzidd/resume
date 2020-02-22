@@ -37,10 +37,11 @@ footer{
 
 }
 .displayPic {
-    border-radius: 50%;
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    width:270px;
   }
   .jumbotron { 
-background-color:#edf7fa;
+background-color:#fcf8e8;
 padding-bottom: 5px;
 text-align: center;
   }
@@ -52,7 +53,7 @@ text-align: center;
       padding-left: 1%;
   }
   body{ 
-      background-color: #edf7fa}
+      background-color: #fcf8e8}
 
       .fa {
         padding: 10px;
@@ -127,7 +128,7 @@ text-align: center;
     }
 
     td { 
-        background-color: #edf7fa;
+        background-color: #fcf8e8;
         
         
         
