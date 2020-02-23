@@ -37,8 +37,7 @@ footer{
 
 }
 .displayPic {
-    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
-    width:270px;
+    border-radius: 15%;
   }
   .jumbotron { 
 background-color:#fcf8e8;
