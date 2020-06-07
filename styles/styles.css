@@ -26,7 +26,7 @@ footer{
     margin-right: auto;
     border-collapse:collapse; 
     border-spacing: 20px;
-    font-size: 20px;
+    font-size: 15px;
     table-layout: auto;
     
 }
@@ -133,7 +133,7 @@ text-align: center;
 
 
     .nameHead { 
-        padding-top: 5%;
+        padding-top: 4%;
     }
 
     .titleHead { 
@@ -144,8 +144,8 @@ text-align: center;
         text-align: center;
         width: auto;
         font-size: 21px;
-        padding-left: 20%;
-        padding-right: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
      
     }
 
@@ -194,7 +194,7 @@ text-align: center;
         height: auto;
         width: 100%;
         
-        top: 11%;
+        top: 8%;
         left: 50%;
         transform: translate(-50%, -52%);
         min-height: 10px;
