@@ -157,7 +157,7 @@ text-align: center;
         z-index: -10;
         min-height: 700px;
         background-image: url(C:/Users/siddp/OneDrive/Desktop/Dev/webResume/images/IMG_223.jpg);
-        background-position: top right;
+        background-position: bottom;
         background-size: cover;
     }
 
@@ -172,7 +172,7 @@ text-align: center;
         left: 50%;
         transform: translate(-50%, -52%);
         min-height: 10px;
-        background-position: bottom;
+        background-position: top;
     }
 
     .workEx { 
