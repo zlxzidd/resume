@@ -1,204 +1,201 @@
+  
 .heading{
-text-align: center;
-}
-
-.skillHead { 
     text-align: center;
-}
-
-.duties { 
-
-
-.skillSet { 
-    margin-left: 10cm;
-}
-
-footer{
-    margin-top:0%;
-    text-align: center;
-}
-
-
-   
-}
-.skillTable { 
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse:collapse; 
-    border-spacing: 20px;
-    font-size: 15px;
-    table-layout: auto;
+    }
     
-}
-
-.headTable { 
-    margin-left: auto;
-    margin-right: auto;
-
-}
-.displayPic {
-    border-radius: 50%;
-  }
-  .jumbotron { 
-background-color: #ffffff;
-padding-bottom: 5px;
-text-align: center;
-  }
-  .jumbotron-fluid{ 
-    padding-top: 0px;
-  }
-  body{ 
-      background-color:#ffffff;}
-
-      .fa {
-        padding: 10px;
-        font-size: 20px;
-        width: 44px;
+    .skillHead { 
         text-align: center;
-        text-decoration: none;
-        border-radius: 10%;
+    }
+    
+    .duties { 
+    
+    
+    .skillSet { 
+        margin-left: 10cm;
+    }
+    
+    footer{
+        margin-top:0%;
+        text-align: center;
+    }
+    
+    
+       
+    }
+    .skillTable { 
+        margin-left: auto;
+        margin-right: auto;
+        border-collapse:collapse; 
+        border-spacing: 20px;
+        font-size: 15px;
+        table-layout: auto;
+        
+    }
+    
+    .headTable { 
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+      .jumbotron { 
+    background-color: #ffffff;
+    padding-bottom: 5px;
+    text-align: center;
       }
-      .fa-facebook {
-        background: #3B5998;
-        color: white;
+      .jumbotron-fluid{ 
+        padding-top: 0px;
       }
-
-        .fa-linkedin {
-            background: #007bb5;
+      body{ 
+          background-color:#ffffff;}
+    
+          .fa {
+            padding: 10px;
+            font-size: 20px;
+            width: 44px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 10%;
+          }
+          .fa-facebook {
+            background: #3B5998;
             color: white;
-        }
-
-.fa-instagram {
-            background: #125688;
-            color: white;
-        }
-
-        h2{ 
-            text-align: left;
+          }
+    
+            .fa-linkedin {
+                background: #007bb5;
+                color: white;
+            }
+    
+    .fa-instagram {
+                background: #125688;
+                color: white;
+            }
+    
+            h2,h5,h6{ 
+                text-align: left;
+                
+            }
+        
+            .techTable{ 
+                margin-top: 0%;
+                margin-left: auto;
+        margin-right: auto;
+        
+            }
+         
+    
+    
+             .container {
+        display: inline-block;
+        position: relative;
+        margin: auto; 
+             }
+    
+             th { 
+                display: inline-table;
+                padding-bottom: 10%;
+            }
+    
+            td { 
+                
+                
+               
+                margin-left: auto;
+                margin-right: auto;
+                position:relative;
+                width: auto;
+                overflow: hidden;
             
-        }
+              
+                
     
-        .techTable{ 
-            margin-top: 0%;
-            margin-left: auto;
-    margin-right: auto;
+            } 
     
-        }
      
-
-
-         .container {
-    display: inline-block;
-    position: relative;
-    margin: auto; 
-         }
-
-         th { 
-            display: inline-table;
-            padding-bottom: 10%;
-        }
-
-        td { 
-            
-            
-           
+    
+        .skillStake { 
             margin-left: auto;
             margin-right: auto;
-            position:relative;
-            width: auto;
-            overflow: hidden;
-            padding-left: 4%;
-          
-            
-
-        } 
-
-    .headTable { 
-       padding-left: "40%"
-    }
-
-    .skillStake { 
-        margin-left: auto;
-        margin-right: auto;
-        text-align: center;
-    }
-
- 
-
-    tr { 
-        margin-right: auto;
-        margin-left: auto;
-    }
-
-
-
-
-    .titleHead { 
-        text-align: center;
-    }
-
-    .skillBox { 
-        text-align: center;
-        width: auto;
-        font-size: 15px;
-        padding-left: 5%;
-        padding-right: 5%;
+            text-align: center;
+        }
+    
      
-    }
-
-    .techTable { 
-        padding-left: 10%;
-    }
-
-    .landing .imageHead {
-        width: auto;
-        height:auto;
-        z-index: -10;
-        min-height: 700px;
-        background-image: url(https://github.com/zlxzidd/resume/blob/master/images/IMG_223.JPG?raw=true);
-        background-position: bottom;
-        background-size: cover;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    .landing .wrapper {
-        position: absolute;
-        height: auto;
-        width: 100%;
-        
-        top: 10%;
-        left: 50%;
-        transform: translate(-50%, -52%);
-        min-height: 10px;
-        background-position: top;
-    }
-
-    .workEx { 
-        padding-left: 5%;
-        padding-right: 5%;
-    }
+    
+        tr { 
+            margin-right: auto;
+            margin-left: auto;
+        }
+    
+    
+    
+    
+        .titleHead { 
+            text-align: center;
+        }
+    
+        .skillBox { 
+            text-align: center;
+            width: auto;
+            font-size: 15px;
+            padding-left: 5%;
+            padding-right: 5%;
+         
+        }
+    
+        .techTable { 
+            padding-left: 10%;
+        }
+    
+        .landing .imageHead {
+            width: auto;
+            height:auto;
+            z-index: -10;
+            min-height: 700px;
+            background-image: url(https://github.com/zlxzidd/resume/blob/master/images/IMG_223.JPG?raw=true);
+            background-position: bottom;
+            background-size: cover;
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+        .landing .wrapper {
+            position: absolute;
+            height: auto;
+            width: 100%;
+            
+            top: 12%;
+            left: 50%;
+            transform: translate(-50%, -52%);
+            min-height: 10px;
+            background-position: top;
+        }
+    
+        .workEx { 
+            padding-left: 5%;
+            padding-right: 5%;
+        }
